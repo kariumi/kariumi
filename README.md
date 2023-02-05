@@ -1,9 +1,11 @@
 # kariumi
-回転するよ
+色々やります。
+
+くるくる
 
 ![rotate](krum.gif "rotation")
 
-廃棄するのはもったいないのでアイコン予備軍はここで供養
+アイコン予備軍供養所
 
-![icon2](github2.png "2")
-![icon3](github3.png "2")
+<img src="github2_.png" width="30%"> <img src="github3_.png" width="30%">
+
