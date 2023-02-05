@@ -1,8 +1,4 @@
 # kariumi
-色々やります。
-
-くるくる
-
-![rotate](krum.gif "rotation")
+色々
 
 [→ゴミ箱へ行く](icon.md)
